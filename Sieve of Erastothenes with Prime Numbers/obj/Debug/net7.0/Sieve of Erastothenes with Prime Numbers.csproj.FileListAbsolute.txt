@@ -1,0 +1,15 @@
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/bin/Debug/net7.0/Sieve of Erastothenes with Prime Numbers
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/bin/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.deps.json
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/bin/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.runtimeconfig.json
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/bin/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.dll
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/bin/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.pdb
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.csproj.AssemblyReference.cache
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.AssemblyInfoInputs.cache
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.AssemblyInfo.cs
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.csproj.CoreCompileInputs.cache
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.dll
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/refint/Sieve of Erastothenes with Prime Numbers.dll
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.pdb
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/Sieve of Erastothenes with Prime Numbers.genruntimeconfig.cache
+/Users/egemenerin/Projects/Sieve of Erastothenes with Prime Numbers/Sieve of Erastothenes with Prime Numbers/obj/Debug/net7.0/ref/Sieve of Erastothenes with Prime Numbers.dll
